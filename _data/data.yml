@@ -1,4 +1,4 @@
-#
+ous #
 # CV Data Configuration
 #
 
@@ -30,7 +30,7 @@ education:
       time: "1985-1989"
 
 experiences:
-  title: "Experiences"
+  title: "Previous Work Experience"
   info:
     - role: "Lead Developer"
       time: "2015 - Present"
